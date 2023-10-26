@@ -1,0 +1,2103 @@
+﻿[
+    {
+        "Student name ": "Basmala khaled",
+        "Student ID number  ": "22230134",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Omar Ashraf Abbas",
+        "Student ID number  ": "22230229",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Adam Ramadan ",
+        "Student ID number  ": "22230211",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "روضة احمد عبدالحليم ",
+        "Student ID number  ": "22230094",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "مهند عمرو فاروق ",
+        "Student ID number  ": "22230239",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "محمود ضياء محمود محمد",
+        "Student ID number  ": "22230188",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Belal Hany",
+        "Student ID number  ": "22230682",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mohammed jameel Abdelrahman sharki",
+        "Student ID number  ": "22231142",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "عمر سعيد عبدالحميد السيد ",
+        "Student ID number  ": "22230230",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "نعمة ثابت يوسف ",
+        "Student ID number  ": "22230322",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Michael Farid Fouad",
+        "Student ID number  ": "22230362",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Maryam Abdelmajeed",
+        "Student ID number  ": "22230476",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Logaen mohamed hossam ",
+        "Student ID number  ": "22230148",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Nessma Saeed",
+        "Student ID number  ": "22230816",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Mohamed Ahmed ",
+        "Student ID number  ": "22230207",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "ياسر محمد حسن محمد ",
+        "Student ID number  ": "22231120",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Carla wassim farouk naguib ",
+        "Student ID number  ": "22230737",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Baraa wael hassan ahmed",
+        "Student ID number  ": "22230562",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Lojaina sameh el sayed",
+        "Student ID number  ": "22230475",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "أندرو أيمن صليب ",
+        "Student ID number  ": "22230855",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Basmala Gamal Abd_Elfatah ",
+        "Student ID number  ": "22230659",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "كيرلس سمير عبدالملاك ",
+        "Student ID number  ": "22231022",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Eman anwar ahmed",
+        "Student ID number  ": "22230075",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Razane abd el karim ",
+        "Student ID number  ": "22230452 ",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Mariam Ahmed ",
+        "Student ID number  ": "22230087",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Ahmed Mohamed Ahmed Ghaleb",
+        "Student ID number  ": "22230896",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "انجى انور صفوت ",
+        "Student ID number  ": "22230701",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "كريم نور الدين محمد حمزة ",
+        "Student ID number  ": "22230886",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Jana hussam eldin",
+        "Student ID number  ": "22230662",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "حنين صابر محمود ",
+        "Student ID number  ": "22230160",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Nariman Ahmed Abd ElHafez Hassan ",
+        "Student ID number  ": "22230425",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Abdelrhman mohamd",
+        "Student ID number  ": "22230838",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Mohamed Ayman ",
+        "Student ID number  ": "22230830",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Sama muhamed sami",
+        "Student ID number  ": "22230414",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Omar sherif mohamed ",
+        "Student ID number  ": "22230520",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "andrew Remon ",
+        "Student ID number  ": "22231007",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "أروى محمود كامل مهران ",
+        "Student ID number  ": "22231006",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "زينه محمد سمير محمد ",
+        "Student ID number  ": "22230169",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Peter Nabil",
+        "Student ID number  ": "22230567",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "علي احمد سيد احمد ",
+        "Student ID number  ": "22231136",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "ياسمين محمود حسين طنطاوي ",
+        "Student ID number  ": "22230780",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Rania Amr Ahmed",
+        "Student ID number  ": "22230792",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Marwan ahmed Mohammed",
+        "Student ID number  ": "22230883",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mazen Mohammed ",
+        "Student ID number  ": "22230280",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Mazen Medhat atef",
+        "Student ID number  ": "22231133",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "ShahdMohamedElian ",
+        "Student ID number  ": "22231114",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Bavly Marslious Gerges",
+        "Student ID number  ": "22231008",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Marina Ezzat ",
+        "Student ID number  ": "22230440",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Holy Hany Shawky",
+        "Student ID number  ": "22230153",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "سلمي محمد شعبان بركات ",
+        "Student ID number  ": "22230401",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Basmala Abd elkhalek ramadan ",
+        "Student ID number  ": "22230568",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "مونيكا عماد الفونس يني دوس ",
+        "Student ID number  ": "22230005",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Arwa ahmed saad ",
+        "Student ID number  ": "22230001",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "ملك احمد عبدالحميد سيد احمد علام ",
+        "Student ID number  ": "22230396",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Seif Eddin Mohamed Salem",
+        "Student ID number  ": "22230513",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Basel ahmed Aboelfetouh ",
+        "Student ID number  ": "22230521",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "يوسف هاني",
+        "Student ID number  ": "22230572",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "تقى اشرف ابراهيم مصطفى ",
+        "Student ID number  ": "22230344",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "جني رضا محمد عزب",
+        "Student ID number  ": "22230076",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Nada abdalla hussien",
+        "Student ID number  ": "22230009",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "شهد محمد عبد المجيد بدوي",
+        "Student ID number  ": "22230722",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "هيلين مينا شاكر فرنسيس",
+        "Student ID number  ": "22230064",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "يوستينا ماهر لمعي ",
+        "Student ID number  ": "22230784",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "نورهان شعبان احمد عبد الحليم",
+        "Student ID number  ": "22230141",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "ندى أحمد محمد عوض الله ",
+        "Student ID number  ": "22230318",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "rana medhat wadie ",
+        "Student ID number  ": "22230439",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Marwan Ahmed Abdel jalil",
+        "Student ID number  ": "22230681",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "عبدالرحمن مصطفى احمد ",
+        "Student ID number  ": "22230566",
+        "GPA": "1"
+    },
+    {
+        "Student name ": " Salma Adel Shahin",
+        "Student ID number  ": "22230339",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ali A.Elnasser",
+        "Student ID number  ": "22230869",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "أدهم علاء الدين عبد الله ",
+        "Student ID number  ": "22230046",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "عمرو وائل محمد توفيق ",
+        "Student ID number  ": "22230542",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "اياد اشرف عبدالراضى ابراهيم",
+        "Student ID number  ": "22230028",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Abdelrahman alaa ",
+        "Student ID number  ": "22230177",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "مريم عايد محمد ",
+        "Student ID number  ": "22230663",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "خالد مصطفي السيد",
+        "Student ID number  ": "22230835",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Kerolos samuel hanna",
+        "Student ID number  ": "22230276",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Yehya Ahmed Zenhom",
+        "Student ID number  ": "22230306",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "ahmed mahmoud ",
+        "Student ID number  ": "22230888",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Radwa hisham kamal ",
+        "Student ID number  ": "22230144",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Nader Hossam Mohamed Ahmed ",
+        "Student ID number  ": "22230899",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Malak ahmed fawzy shehata",
+        "Student ID number  ": "22230415",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Ahmed Alaa Mohamed Hassan ",
+        "Student ID number  ": "22230929 ",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "أسامة الهادي علي إبرهيم",
+        "Student ID number  ": "22230198",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mohaned Ahmed ",
+        "Student ID number  ": "22230373",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "كيرلس أشرف سمير ",
+        "Student ID number  ": "22230313",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "يارا علاء محمد ",
+        "Student ID number  ": "22231050",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "محمد سامى محمد ",
+        "Student ID number  ": "22230268",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mariam essam ali",
+        "Student ID number  ": "22230122",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Seif Mohamed ",
+        "Student ID number  ": "22230369",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Habiba Waleed Abdelrazek ",
+        "Student ID number  ": "22230779",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Shahd Tamer Gaber Yassin",
+        "Student ID number  ": "22230758",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Hagar Alsayed ",
+        "Student ID number  ": "22230112",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Omar saleh shazly",
+        "Student ID number  ": "22230826",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Martina Fady ",
+        "Student ID number  ": "22231118",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Mariam Wafik William ",
+        "Student ID number  ": "22231097",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "كريم اكرم محمد ",
+        "Student ID number  ": "22230296",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Sandy Medhat ",
+        "Student ID number  ": "22230432",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Omar karim salah eldein abdelwahab ",
+        "Student ID number  ": "22230985",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Verina emad abd almalek ",
+        "Student ID number  ": "22230710",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Shahd mohamed mahmoud youssef",
+        "Student ID number  ": "22231122",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "كيرلس ريمون موريس لبيب ",
+        "Student ID number  ": "22231052",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Karim ahmed hashem",
+        "Student ID number  ": "22230867",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Rawan Sabry ",
+        "Student ID number  ": "22230803",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "يوسف محمود نادي",
+        "Student ID number  ": "22230924",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ziad ahmed nabil tosson",
+        "Student ID number  ": "22230291",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "يوسف محمد رشاد ",
+        "Student ID number  ": "22230632",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Mohand mohamd azmy",
+        "Student ID number  ": "22230882",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "marven magdy ",
+        "Student ID number  ": "22230893",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "چون سمير نبيل",
+        "Student ID number  ": "22230187",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "سما محمد جابر عبدالجليل ",
+        "Student ID number  ": "22230379",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Khadiga Mohamed Hesham ",
+        "Student ID number  ": "22230813",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Mariam ahmed farghaly ",
+        "Student ID number  ": "22230790",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Verina Hany Ragheb Gadallah",
+        "Student ID number  ": "22230713",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Shahd Saber",
+        "Student ID number  ": "22231048",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mostafa Yasser ",
+        "Student ID number  ": "22230950",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "احمد حسام الدين مصطفى محمد ",
+        "Student ID number  ": "22230635",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Bahgat ayman",
+        "Student ID number  ": "22230698",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Basmala tawfik Mohamed ",
+        "Student ID number  ": "22230418",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "رحمه اسعد عبد المنعم يوسف",
+        "Student ID number  ": "22230449",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Youssuf wael hassan",
+        "Student ID number  ": "22231035",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Shahd Mohammd Abouelkheir ",
+        "Student ID number  ": "22230664",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Amr Khaled Mahmoud ",
+        "Student ID number  ": "22230209 ",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Farah magdy Ahmed ",
+        "Student ID number  ": "22230744",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "عبدالله محمود اسماعيل ",
+        "Student ID number  ": "22231018",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "سيف علاءالدين حسين",
+        "Student ID number  ": "22230213",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "مازن تامر",
+        "Student ID number  ": "22230559",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Menna lotfy hassan",
+        "Student ID number  ": "22230127",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Arwa Hassan Shaala",
+        "Student ID number  ": "22230338",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mostafa Kamal",
+        "Student ID number  ": "22230580",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Carol Nader ",
+        "Student ID number  ": "22230435",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Daniel wael",
+        "Student ID number  ": "22230512",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "ضحي فهمي محمد",
+        "Student ID number  ": "22231014",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "عمر محمد احمد عبد المؤمن",
+        "Student ID number  ": "22230975",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "منى محمد عبد الباسط",
+        "Student ID number  ": "22230164",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Mohamed waleed ",
+        "Student ID number  ": "22230887",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Ashraf kamal Mohamed ",
+        "Student ID number  ": "22230910",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Abdelrahman Ahmed Samir",
+        "Student ID number  ": "22230505",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "سيف عبدالعزيز السيد",
+        "Student ID number  ": "22230032",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Madonna George Rizkallah ",
+        "Student ID number  ": "22230382",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Hagar Elmoataz ",
+        "Student ID number  ": "22230126",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ahmed Wael ali ",
+        "Student ID number  ": "22230909",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Fatema el zahraa mohamed ",
+        "Student ID number  ": "22230390",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "جني اشرف كمال سليمان",
+        "Student ID number  ": "22230721",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Marina Adel ",
+        "Student ID number  ": "22230116",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Catherine Osama Samir Gendy ",
+        "Student ID number  ": "22230804",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Yasmin awad Ebrahim ",
+        "Student ID number  ": "22230436",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Nada Medhat helal",
+        "Student ID number  ": "22230328",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Mayar Ahmed Saad ",
+        "Student ID number  ": "22230794 ",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "toqa khaled kanz abdelrehem ",
+        "Student ID number  ": "22230003",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "يوسف محمد صلاح الدين",
+        "Student ID number  ": "22230596",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "abdelrahman alaa mohamed ",
+        "Student ID number  ": "22230200",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Nada abd el sadek ahmed ",
+        "Student ID number  ": "22230648",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Shahenda tarek Mohamed ",
+        "Student ID number  ": "22230082",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "مرفت سامي محمد فرج",
+        "Student ID number  ": "22230706",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "ساندي السيد",
+        "Student ID number  ": "222230789",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Ali Hesham Magdy ",
+        "Student ID number  ": "22230526",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Gana mohsen",
+        "Student ID number  ": "22231108",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Fardous mohamed abotalb ",
+        "Student ID number  ": "22231021",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "شادي ياسر السيد ابراهيم ",
+        "Student ID number  ": "22230192",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "حبيبه رضا سيد",
+        "Student ID number  ": "٢٢٢٣٠١٥٢",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Mostafa Mohammed Elsayed",
+        "Student ID number  ": "22230885",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Abdelrhman yasser Bahaa elden ",
+        "Student ID number  ": "22230244",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Youstina nader ",
+        "Student ID number  ": "2223754",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "علي الحسيني السيد سليم ",
+        "Student ID number  ": "22230544",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Sama Mohammed abdelaziz ",
+        "Student ID number  ": "22230099",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "معتصم عمرو نصر ",
+        "Student ID number  ": "22230589",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Jana amir seid ",
+        "Student ID number  ": "22230762",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ahmed Hassan Mokhtar ",
+        "Student ID number  ": "22230683 ",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Habiba Alamir ",
+        "Student ID number  ": "22230107",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "روان عزت قناوي رمضان ",
+        "Student ID number  ": "22230773 ",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "نانسي تامر محمد عبدالحميد ",
+        "Student ID number  ": "22230799",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Mohamed ahmed ",
+        "Student ID number  ": "22230977",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Sara abdelaziz ",
+        "Student ID number  ": "22230095",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Pearly reda",
+        "Student ID number  ": "22230341",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Nadine Ahmed Mohamed Ali ",
+        "Student ID number  ": "22230723",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Shahd Zuhair Kamel",
+        "Student ID number  ": "22230424",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "أحمد إيهاب أحمد كمال",
+        "Student ID number  ": "22230220",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Farah abdelaleem",
+        "Student ID number  ": "22230760",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "أحمد محمد أبوطالب ",
+        "Student ID number  ": "22230024",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Hana Mohamed Ezzat ",
+        "Student ID number  ": "22230768",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Basmala ayman mokhtar",
+        "Student ID number  ": "22231093",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "اميره اشرف محمد",
+        "Student ID number  ": "٢٢٢٣٠٣٧٨",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Sama adel mohamed ",
+        "Student ID number  ": "22230085",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Maram Ihab monir",
+        "Student ID number  ": "22230411",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Doris hany",
+        "Student ID number  ": "22230467",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Hana Hesham Mahmoud Kamel",
+        "Student ID number  ": "22231110",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "يوسف مصطفى سعيد حسن ",
+        "Student ID number  ": "22230350",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Rawan Ahmed",
+        "Student ID number  ": "22230376",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "زياد احمد محمد كمال الدين",
+        "Student ID number  ": "22230210",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "ياسين هانى سعيد سيد ",
+        "Student ID number  ": "22230206",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "loujaina khaled abdallah",
+        "Student ID number  ": "22230124",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "مهند مصطفي كمال الحنفي",
+        "Student ID number  ": "22230202",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Nour zaki badr ",
+        "Student ID number  ": "22231116",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "احمد حسام الدين محمد مهني",
+        "Student ID number  ": "22230240",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Mai osama mohamed ",
+        "Student ID number  ": "22230481",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "ندي عبدالعزيز شاكر ",
+        "Student ID number  ": "22230102",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Basmala sayed",
+        "Student ID number  ": "22230478",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "شهد محمود احمد سعيد",
+        "Student ID number  ": "22230004",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Hamid Ashraf Ahmed ",
+        "Student ID number  ": "22230504",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Radwa Ramadan Mahmoud Mohamed ",
+        "Student ID number  ": "22230755",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "جني سامح عبدالقادر",
+        "Student ID number  ": "22230174",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Sama muhammed abdelfatah ",
+        "Student ID number  ": "22230165",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Islam mohamed kamal",
+        "Student ID number  ": "22230311",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Mohamed seif Elyazel kamel Ahamed",
+        "Student ID number  ": "22230654",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "شهد حسين حسن ",
+        "Student ID number  ": "22230070",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Basmla osama",
+        "Student ID number  ": "22230786",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Salma Adel Hassen",
+        "Student ID number  ": "22230747 ",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "مايا مدحت لطفي حسين ",
+        "Student ID number  ": "22230448",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Eshraka mohamed",
+        "Student ID number  ": "22230461",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Yousef gomaa sayed",
+        "Student ID number  ": "22231001",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "mazen mohamed",
+        "Student ID number  ": "22230502",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "احمد حسن عطيه ",
+        "Student ID number  ": "22230573",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "مؤمن محمد أحمد ",
+        "Student ID number  ": "22230303",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Zena Tarek",
+        "Student ID number  ": "22230061",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "منه الله محمد عيد محمود",
+        "Student ID number  ": "22230801",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "محمد أحمد مجدي أحمد ابو العزم ",
+        "Student ID number  ": "22230948",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Rana Alaa Hamdy ",
+        "Student ID number  ": "22230007 ",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Shahd Mohamed Mohamed Abdallah ",
+        "Student ID number  ": "22230118",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Shahd Mohamed Mohamed Abdallah ",
+        "Student ID number  ": "22230118",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Yara hany mahmouf",
+        "Student ID number  ": "22230976",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Mariam Alaa Mahmoud ",
+        "Student ID number  ": "22230454",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Abdelrahman Alhussein Mohammed ",
+        "Student ID number  ": "22230630",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Noran Ayman Hefny ",
+        "Student ID number  ": "22230727",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Menna mohamed ",
+        "Student ID number  ": "22230158",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Ganna Ahmed Hassan Ibrahim ",
+        "Student ID number  ": "22230170",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Radwa sherif aziz mohamed ",
+        "Student ID number  ": "22230430",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "علي الدين محمد يوسف ابو الحجاج",
+        "Student ID number  ": "22230853",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "سلمى احمد عليوة",
+        "Student ID number  ": "22230455",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Shahd Ahmed Mahmoud Elnemr ",
+        "Student ID number  ": "22230670",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Salma safwat",
+        "Student ID number  ": "22230676",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "pola mekhaeel shaker",
+        "Student ID number  ": "22230585",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Asser Mohammed Harhash ",
+        "Student ID number  ": "22230286",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "منة الله عويس عبدالعال ",
+        "Student ID number  ": "22230482",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Jasmen Ashour Hassan ",
+        "Student ID number  ": "22230132",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Reem youssef Mohamed ",
+        "Student ID number  ": "22230620",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Sohiala mohamed ragab",
+        "Student ID number  ": "22230464",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Marwan Hany Medhat Yakan Hussein",
+        "Student ID number  ": "22230488",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "youssef mohamed",
+        "Student ID number  ": "22230269",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Judy Ahmed samra",
+        "Student ID number  ": "22231003",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Abdelrahma mostafa ",
+        "Student ID number  ": "22230284",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "jana medhat abd el monem",
+        "Student ID number  ": "22230788",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Rofaida ihab",
+        "Student ID number  ": "22230155",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Abdelrahman Rassmy",
+        "Student ID number  ": "22231104",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Marwan Ahmed abdel Jalil",
+        "Student ID number  ": "22230681",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Nada mohammed abdelzaher ",
+        "Student ID number  ": "22230080",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "ءالاء احمد حسن محمد ",
+        "Student ID number  ": "22230471",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "khadija ghoneim",
+        "Student ID number  ": "22230345",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Hamza Mohamed Saad Abdelmotalab ",
+        "Student ID number  ": "22230053",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "منة الله محمد سيد احمد",
+        "Student ID number  ": "22230133",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Ganna Mostafa Mazhar",
+        "Student ID number  ": "22230808",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Yehia ehab mohamed",
+        "Student ID number  ": "22230833",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Youssef yasser mosa ",
+        "Student ID number  ": "22230234",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Youssef yasser mosa ",
+        "Student ID number  ": "22230234",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Marwan yosry",
+        "Student ID number  ": "22230824",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "عبدالله محمد عمر سيد عليوه",
+        "Student ID number  ": "22230597",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "مريم حسام الدين علي محمد ",
+        "Student ID number  ": "22230472",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Nada hany mohamed shaker ",
+        "Student ID number  ": "22230716",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "amr ahmed abass mohamed",
+        "Student ID number  ": "22230253",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "مريم يحيي عطيه محمد ",
+        "Student ID number  ": "22230807",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "amr ahmed abass mohamed",
+        "Student ID number  ": "22230253",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Maria nashaat",
+        "Student ID number  ": "22230149",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Mohamed hesham fathy ",
+        "Student ID number  ": "22230299 ",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "mera amr mohamed ",
+        "Student ID number  ": "22230711",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Kareem Ayman ",
+        "Student ID number  ": "22230353",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Youssef yasser",
+        "Student ID number  ": "22230248",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Ahmed mohamed aboalyoser",
+        "Student ID number  ": "22230563",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Karim mohamed kamal",
+        "Student ID number  ": "22230516",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Helana Maher",
+        "Student ID number  ": "22230705",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "ندا أنور عبد العظيم على ",
+        "Student ID number  ": "22230809",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "John danial ",
+        "Student ID number  ": "22230551",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "سارة عصمت",
+        "Student ID number  ": "22230384",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "يارا حسام الدين يحيي ",
+        "Student ID number  ": "22230413",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "شهد محمد حامد ",
+        "Student ID number  ": "22230429",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "بسملة هاني عوض الله محمد ",
+        "Student ID number  ": "22230433",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Ledia adel",
+        "Student ID number  ": "22230800",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Omar mohamed abdalfadil",
+        "Student ID number  ": "22230271",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "اسراء عبدالكريم عوض ",
+        "Student ID number  ": "22230672",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Melody Ayman",
+        "Student ID number  ": "22230785",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "مريم محمد عبد الحميد ",
+        "Student ID number  ": "22230154",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "بيشوي ارميا شنوده",
+        "Student ID number  ": "22230039",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Maria sherif",
+        "Student ID number  ": "22230462",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Laila Gabr",
+        "Student ID number  ": "22230473",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Kerolos fady ayoub ",
+        "Student ID number  ": "22230538 ",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Toka khaled Mostafa ",
+        "Student ID number  ": "22230806",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "زياد وليد محمد محمد ",
+        "Student ID number  ": "22230974",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "أحمد محمد عبد الستار محمد ",
+        "Student ID number  ": "22230646",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "احمد عبدالرحيم احمد",
+        "Student ID number  ": "22230281",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "\"مريم محمد محروس"
+    },
+    {
+        "Student name ": ""
+    },
+    {
+        "Student name ": "\"",
+        "Student ID number  ": "22231044",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "فارس محمد مصطفى",
+        "Student ID number  ": "22231128",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Rabab hassan",
+        "Student ID number  ": "22230333",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mazen mohamed shams el din",
+        "Student ID number  ": "22230871",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Mark Emil Wadie Morcos ",
+        "Student ID number  ": "22231091",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "سلمى محمد حمدالله محمود فرج ",
+        "Student ID number  ": "22230805",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Abd El rahamn Abd Elhady",
+        "Student ID number  ": "22230372",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mariam walid",
+        "Student ID number  ": "22230738",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Fatma mohsen mohamed",
+        "Student ID number  ": "22230444",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "هبة عماد الدين فؤاد محمد ",
+        "Student ID number  ": "22231060",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "احمد بهاء الدين علي (boha )",
+        "Student ID number  ": "22230326",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Mariam Ayman ",
+        "Student ID number  ": "22230453",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Shahd Mahmoud Mohamed makser",
+        "Student ID number  ": "22230660",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Kirollos milad ",
+        "Student ID number  ": "22230503",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "مافى سامح فوزى موسى ",
+        "Student ID number  ": "22230673",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Yousef Mohamed ",
+        "Student ID number  ": "22230264",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Malak tarek mohamed",
+        "Student ID number  ": "22230742",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "نوران احمد عبد الحافظ محمد ",
+        "Student ID number  ": "22230018",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Rama talla rabie",
+        "Student ID number  ": "22230097.",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Verina Hany Refaat ",
+        "Student ID number  ": "22230771",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "شهاب ساهر نبيل محمد",
+        "Student ID number  ": "22230251",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "rawan essam ibrahim",
+        "Student ID number  ": "22230428",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Kenzy yousry hamdy",
+        "Student ID number  ": "22230665",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "عبدالرحمن تامر علاءالدين ",
+        "Student ID number  ": "22230045",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Roaa sameh",
+        "Student ID number  ": "22230159",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Seif Waleed El Sayed Mohammed ",
+        "Student ID number  ": "22231112",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Angela heshmat samir",
+        "Student ID number  ": "22230138",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Gehan ali ",
+        "Student ID number  ": "22230336 ",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Mariam Essmat",
+        "Student ID number  ": "22230751",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Habiba mohamed",
+        "Student ID number  ": "22230446",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Ahmed Walid ",
+        "Student ID number  ": "22230963",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Yasmine ayman saad elkholy",
+        "Student ID number  ": "22230712",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Mohamed Ayman Mohamed ",
+        "Student ID number  ": "22230830",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "كيرلس طاهر شاروبيم زاخر",
+        "Student ID number  ": "22230245",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mohamed ahmed mohamed odam ",
+        "Student ID number  ": "22230991",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Nagwa Hassan kamel ",
+        "Student ID number  ": "22230458",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Ahmed amr said ",
+        "Student ID number  ": "22230644",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "روضه مصطفي عبدالرحمن ",
+        "Student ID number  ": "22230443",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Yassmin Mohamed Mahmoud ",
+        "Student ID number  ": "22230400",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Sandy Ehab Elshamy ",
+        "Student ID number  ": "22230019",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "فاطمة محمد احمد محمد ",
+        "Student ID number  ": "22230015",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "مارينا كمال ",
+        "Student ID number  ": "22230457",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Mohamed ahmed",
+        "Student ID number  ": "22230219",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "احمد أسامة ربيع صادق ",
+        "Student ID number  ": "22230510",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Jowiria Hany Ahmed ",
+        "Student ID number  ": "22230385",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Menna mohamed monir",
+        "Student ID number  ": "22230330",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Shahd Mohamed ",
+        "Student ID number  ": "22230108",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "علي محمد علي محمد ",
+        "Student ID number  ": "22230356 ",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "زياد مصطفى عبدالمنعم",
+        "Student ID number  ": "22230514",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Farah Fouad ",
+        "Student ID number  ": "22230456",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Abdelrahman ",
+        "Student ID number  ": "22230840",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Shahd Mohamed Hamed ",
+        "Student ID number  ": "22230091",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Batol mahmoud mohamed sadeq ",
+        "Student ID number  ": "22230724",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Rawan Ahmed ",
+        "Student ID number  ": "22230815",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Mohamed Khaled salah",
+        "Student ID number  ": "22230923",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "محمود نادي محمود عبد الجواد ",
+        "Student ID number  ": "22231077 ",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Hala Mohamed Esmail",
+        "Student ID number  ": "22230658",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "بسملة محمد جادالله بشير",
+        "Student ID number  ": "22230821",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Rashed hani",
+        "Student ID number  ": "22230036",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Youssef Amr Amin ",
+        "Student ID number  ": "22230927",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ganna hazem ahmed",
+        "Student ID number  ": "22230417",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Seif mohamed ahmed kamal",
+        "Student ID number  ": "22230282",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Marly Hossam Mousa ",
+        "Student ID number  ": "22230072",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "فاطمه سعيد سعد ",
+        "Student ID number  ": "22230725",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "سلمى احمد عبد الحافظ محمد ",
+        "Student ID number  ": "22230044",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "malak moataz mohamed abdullah",
+        "Student ID number  ": "22230022",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Lana Alnobi Abdelradi",
+        "Student ID number  ": "22230347",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Youssef ashraf mohamed",
+        "Student ID number  ": "22230906",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Farah Yasser Ahmed",
+        "Student ID number  ": "22230090",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ziad osama abdallah",
+        "Student ID number  ": "22230940",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mariam Ahmed albadawy ",
+        "Student ID number  ": "22230651",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "محمد احمد حسين ",
+        "Student ID number  ": "22231064",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Olivia Ashraf Meshreky ",
+        "Student ID number  ": "22230479",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Ali mohamed mohamed shawky",
+        "Student ID number  ": "22230866",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ahmed Ashraf Abdel-Aal",
+        "Student ID number  ": "22230351",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Malak",
+        "Student ID number  ": "22230168",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "احمد محمد حسين محمد ",
+        "Student ID number  ": "22230962",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "Jasmine Ahmed mohamed ",
+        "Student ID number  ": "22230405",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "عمر حسني عبد العظيم محمود ",
+        "Student ID number  ": "22230190",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Aya sabri mohamed ",
+        "Student ID number  ": "22230402",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Malak mohsen Mohamed ",
+        "Student ID number  ": "22231030",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Rawan tarek",
+        "Student ID number  ": "22230013",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "amr ahmed abass mohamed",
+        "Student ID number  ": "22230253",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "mostafa alaa mohamed mahmoud ",
+        "Student ID number  ": "22231098",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Mahmoud moataz mahmoud ",
+        "Student ID number  ": "22231027",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "محمد يسري حسين مسلم ",
+        "Student ID number  ": "22230638",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "سيف الدين ايهاب",
+        "Student ID number  ": "22230242",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Mohamed Amr ",
+        "Student ID number  ": "22231036",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "ريمون جرجس ",
+        "Student ID number  ": "22230649",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Arwa Ashraf Salem",
+        "Student ID number  ": "22230120",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "محمود عماد حمدي راتب ",
+        "Student ID number  ": "22230241",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "ملك ياسين محجوب عبد المعطى",
+        "Student ID number  ": "22230119",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Yara hesham saeed ",
+        "Student ID number  ": "22230065",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "ahmed mohamed abdallah elbarbary ",
+        "Student ID number  ": "22230626",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Nora mohamed saad",
+        "Student ID number  ": "22230135",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "عبد العزيز احمد محمود عيسوي",
+        "Student ID number  ": "22230543",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "محمد حسن محمد عبد المطلب",
+        "Student ID number  ": "22231004",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "عبدالرحمن محمد السيد ",
+        "Student ID number  ": "22230884",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Omar mohamed ",
+        "Student ID number  ": "22230628",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "Aliaa Yasser Ibrahim ",
+        "Student ID number  ": "22230069",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Philopateer Maher Samir",
+        "Student ID number  ": "22230584",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Zeyad mahmoud ebrahim ",
+        "Student ID number  ": "22230368",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Merihan ",
+        "Student ID number  ": "22230002",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "مصطفى محمد عبدالعزيز",
+        "Student ID number  ": "22230854",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "عزالدين عمرو عيسى امام ",
+        "Student ID number  ": "22230274",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Habiba tarek Mohamed",
+        "Student ID number  ": "22230445",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "christine youssef ",
+        "Student ID number  ": "22230423",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Hazem Mohamed Yousry",
+        "Student ID number  ": "22230228",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "اسلام ابراهيم صابر",
+        "Student ID number  ": "22230944",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Sylvia Michel ",
+        "Student ID number  ": "22230057 ",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Mustafa ayman Mustafa ",
+        "Student ID number  ": "22230278",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Youssef mohamed",
+        "Student ID number  ": "22230604",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Abdullah ahmed elshamy",
+        "Student ID number  ": "22230485",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "فرح وليد محمد عبد الحليم ",
+        "Student ID number  ": "22230777",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Marvy Ashraf wasfy ",
+        "Student ID number  ": "22230146",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Nardine samir",
+        "Student ID number  ": "22230480",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "Mira",
+        "Student ID number  ": "22230469 ",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "معاذ محمد سيد امين",
+        "Student ID number  ": "22230221",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "منه محمد كمال ",
+        "Student ID number  ": "22230419",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "تقي محمد عطالله ",
+        "Student ID number  ": "22230103",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Eslam adel Yehya Ouda",
+        "Student ID number  ": "22230935",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Farah Mohamed Abd El twab ",
+        "Student ID number  ": "22230434",
+        "GPA": "1"
+    },
+    {
+        "Student name ": "عمر محمد محمود ابراهيم ",
+        "Student ID number  ": "22230979",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Menna Moustafa Mohamed ",
+        "Student ID number  ": "22231039",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Helen wageh ",
+        "Student ID number  ": "22230409",
+        "GPA": "1.5"
+    },
+    {
+        "Student name ": "عبدالرحمن حسانين السيد حسانين ",
+        "Student ID number  ": "22230653",
+        "GPA": "2.6"
+    },
+    {
+        "Student name ": "عبدالرحمن حسانين السيد حسانين ",
+        "Student ID number  ": "22230653",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "كنزي باسم مصطفي احمد ",
+        "Student ID number  ": "22230348",
+        "GPA": "2"
+    },
+    {
+        "Student name ": "Ahmed hussein elgendy ",
+        "Student ID number  ": "22230047",
+        "GPA": "3"
+    },
+    {
+        "Student name ": "Sara ahmed samy ",
+        "Student ID number  ": "22230123",
+        "GPA": "4"
+    },
+    {
+        "Student name ": "Nouran Walid Ibrahim Mohamed Sakr",
+        "Student ID number  ": "22230142",
+        "GPA": "1"
+    }
+]
